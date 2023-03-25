@@ -1,3 +1,5 @@
 # http
 
-`go get -u github.com/calebtraceyco/http`
+```
+go get -u github.com/calebtraceyco/http
+```
